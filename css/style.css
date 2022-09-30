@@ -172,16 +172,16 @@ first div in the grid  and place it in the grid. */
       }
       
       .about {
-        grid-row: 2 ;
+        grid-row-start: 2 ;
       }
       .method {
-        grid-row: 3;
+        grid-row-start: 3;
       }
       .clients {
-        grid-row: 4;
+        grid-row-start: 4;
       }
       .contact {
-        grid-row: 5;
+        grid-row-start: 5;
       }
       
       .about-image, .method-image, .clients-image, .contact-image {
